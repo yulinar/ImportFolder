@@ -1,0 +1,11 @@
+UJIAN MID
+MATERI : WEB SERVICE
+
+1. DB_1 SERVER
+2. CREATE JSON (php)
+===================
+
+1. DB_ CLIENT (PIHAK3)
+2. AMBIL DATA JSON, SELEKSI DATA YG TERPILIH, SIMPAN DALAM DB_CLIENT (php)
+Disini mikirnya: logika bahasa pemrograman, if while.. for.. rumus.. dst
+3. APLIKASI MEMBACA DB_CLIENT (php)
